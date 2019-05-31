@@ -1,0 +1,14 @@
+number of comparisons: 6 time: 2251.0 for     |Setumo Dam   20.718  41.7
+
+number of comparisons: 7 time: 2491.0 for     |Sterkspruit Dam   9.473000000000001  
+
+number of comparisons: 7 time: 1338.0 for     |Vondo Dam   30.446999999999999  63
+
+number of comparisons: 7 time: 2168.0 for     |Vondo Dam   30.446999999999999  63
+
+number of comparisons: 8 time: 1481.0 for     |Zaaihoek Dam   184.63  58.5
+
+number of comparisons: 7 time: 2491.0 for     |Woodstock Dam   373.25  77.099999999999994
+
+number of comparisons: 7 time: 1612.0 for     |Spring Grove Dam  139.19999999999999  84.8
+

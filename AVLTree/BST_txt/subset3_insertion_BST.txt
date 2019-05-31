@@ -1,0 +1,59 @@
+time: 12851.0 nanoseconds | Nzhelele Dam  51.234000000000002 32.9
+time: 29856.0 nanoseconds | Luphephe Dam  13.984 12.3
+time: 27606.0 nanoseconds | Nwanedzi Dam  5.144 38.200000000000003
+time: 14534.0 nanoseconds | Mutshedzi Dam  2.336 30.1
+time: 26759.0 nanoseconds | Albasini Dam  28.199000000000002 69.2
+time: 10546.0 nanoseconds | Vondo Dam  30.446999999999999 63
+time: 67727.0 nanoseconds | Nandoni Dam  166.11 66.2
+time: 5828.0 nanoseconds | Witbank Dam  104.02 52.2
+time: 8329.0 nanoseconds | Middelburg Dam  48.055999999999997 57
+time: 9331.0 nanoseconds | Bronkhorstspruit Dam  56.994 64.599999999999994
+time: 7906.0 nanoseconds | Rust Der Winter Dam  28.186 57.2
+time: 9817.0 nanoseconds | Loskop Dam  361.51 55.1
+time: 8523.0 nanoseconds | Rhenosterkop Dam  204.58 25.6
+time: 9839.0 nanoseconds | Tonteldoos Dam  0.189 100.3
+time: 9734.0 nanoseconds | Vlugkraal Dam  0.443 66.099999999999994
+time: 12807.0 nanoseconds | Buffelskloof Dam  5.244 29.6
+time: 22642.0 nanoseconds | De Hoop Dam 348.7 92.3
+time: 10336.0 nanoseconds | Flag Boshielo Dam  185.13 40.200000000000003
+time: 7625.0 nanoseconds | Ohrigstad Dam  13.448 7.5
+time: 9152.0 nanoseconds | Blyderivierpoort Dam  54.369 50
+time: 5884.0 nanoseconds | Klaserie Dam  5.604 49
+time: 11055.0 nanoseconds | Tours Dam  6.084 32
+time: 7830.0 nanoseconds | Ebenezer Dam  69.138999999999996 70.400000000000006
+time: 7975.0 nanoseconds | Hans Merensky Dam  1.225 90
+time: 8300.0 nanoseconds | Magoebaskloof Dam  4.84 100
+time: 9531.0 nanoseconds | Vergelegen Dam  0.254 98
+time: 12431.0 nanoseconds | Tzaneen Dam  156.53 29.9
+time: 9804.0 nanoseconds | Dap Naude Dam  1.936 82.8
+time: 24648.0 nanoseconds | Middel-Letaba Dam  171.93 25.4
+time: 5953.0 nanoseconds | Nsami Dam  21.873999999999999 14.4
+time: 8992.0 nanoseconds | Vaal Dam  2603.4499999999998 48.6
+time: 25126.0 nanoseconds | Grootdraai Dam  349.53 64.099999999999994
+time: 5030.0 nanoseconds | Boskop Dam  21.026 70.099999999999994
+time: 7103.0 nanoseconds | Johan Neser Dam  5.672 0
+time: 5231.0 nanoseconds | Klerkskraal Dam  7.922 42.2
+time: 4824.0 nanoseconds | Potchefstroom Dam  2.027 
+time: 3943.0 nanoseconds | Klipdrift Dam  13.301 66.400000000000006
+time: 4895.0 nanoseconds | Elandskuil Dam  1.181 7.4
+time: 4215.0 nanoseconds | Rietspruit Dam  7.275 0
+time: 5420.0 nanoseconds | Spitskop Dam  57.831000000000003 27.7
+time: 3385.0 nanoseconds | Taung Dam 61.366 82.3
+time: 4443.0 nanoseconds | Allemanskraal Dam  174.52 13.5
+time: 5093.0 nanoseconds | Erfenis Dam  206.06 
+time: 6144.0 nanoseconds | Tierpoort Dam  33.994999999999997 0
+time: 3986.0 nanoseconds | Kalkfontein Dam  325.13 5.9
+time: 4185.0 nanoseconds | Rustfontein Dam  71.207999999999998 21.1
+time: 4687.0 nanoseconds | Krugersdrift Dam  71.478999999999999 6.8
+time: 3457.0 nanoseconds | Groothoek Dam  11.904999999999999 0
+time: 2894.0 nanoseconds | Koppies Dam  42.311 39
+time: 3566.0 nanoseconds | Sterkfontein Dam  2616.9 88.1
+time: 3836.0 nanoseconds | Saulspoort Dam  15.675000000000001 98.4
+time: 4187.0 nanoseconds | Fika-Patso Dam  29.411000000000001 
+time: 3974.0 nanoseconds | Vaalharts Storage Weir   50.682000000000002 74.5
+time: 4631.0 nanoseconds | Bloemhof Dam  1240.24 15.5
+time: 3129.0 nanoseconds | Douglas Storage Weir   16.245000000000001 106.3
+time: 3872.0 nanoseconds | Sterkspruit Dam  9.473000000000001 
+time: 3274.0 nanoseconds | Katse Dam  1519.1 63.8
+time: 3802.0 nanoseconds | Mohale Dam  857.1 26.7
+time: 2874.0 nanoseconds | Egmont Dam  9.058999999999999 22
